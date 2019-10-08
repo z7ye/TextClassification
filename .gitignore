@@ -1,0 +1,7 @@
+### Dont track content of these files
+Data/
+__pycache__
+## Compiled Source
+*.pt
+Data_Loading.ipynb
+Data_Wrangling.ipynb
