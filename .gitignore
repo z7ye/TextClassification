@@ -9,6 +9,7 @@ Data_Wrangling.ipynb
 __pycache__/
 *.py[cod]
 *$py.class
+Data\ Preprocessing/.vector_cache
 
 
 ### data and folders to be ignored
