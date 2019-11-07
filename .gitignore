@@ -10,7 +10,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 Data\ Preprocessing/.vector_cache
-
+Data Preprocessing/.idea/
 
 ### data and folders to be ignored
 Data/
